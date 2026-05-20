@@ -1,6 +1,6 @@
 # 3D Terrain Generator
 A real-time, 3D terrain generator built from scratch in C# using the Raylib-cs library. This project demonstrates applied mathematics, rendering optimization techniques and custom algorithmic implementations for procedural generation
-
+<img src="TerrainGenerator/Assets/preview.png" alt="Visuals preview" width="1000">
 ## Technologies
 * C#
 * Raylib-cs
