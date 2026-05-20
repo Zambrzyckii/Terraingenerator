@@ -1,0 +1,7 @@
+﻿services:
+  terraingenerator:
+    image: terraingenerator
+    build:
+      context: .
+      dockerfile: TerrainGenerator/Dockerfile
+
